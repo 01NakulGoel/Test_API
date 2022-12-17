@@ -1,0 +1,925 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      },
+      {
+        "id": 2,
+        "title": "n-server",
+        "author": "typicode"
+      },
+      {
+        "id": 3,
+        "title": "j-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "users": {
+      "name": "Rahul Bhatnagar",
+      "id": 1,
+      "username": "rahul"
+    },
+    "workoutProgram": [
+      {
+        "title": "FB 3-Day: 3 Workouts Per Week for 2 Weeks",
+        "image": "https://d18zdz9g6n5za7.cloudfront.net/plan/1020/1020-9958-fb-3-day-3-workouts-per-week-for-2-weeks-91fc.jpg",
+        "price": "7.99",
+        "FBplus": "true",
+        "plan": "2",
+        "duration": "45",
+        "days": "3",
+        "difficultyLevel": [
+          "3",
+          "4"
+        ],
+        "bodyFocus": "Total Body",
+        "equipmentData": [
+          "Dumbbell",
+          "Mat"
+        ],
+        "trainingTypeData": [
+          "Strength Training"
+        ],
+        "overview": "FB 3-Day is a 2-week workout challenge designed for people who only want three (required) workout days per week. Whether you're too busy for more than three workouts per week, or you like to supplement other types of fitness (walking, swimming, etc.) with at-home workout videos, this challenge is intended to help support a well-rounded fitness routine that suits your desired schedule and pace. Expect a mix of weight lifting and HIIT (high intensity interval training) that will test your endurance, cardiovascular health, and strength. ",
+        "format": "The format for this challenge varies from week to week. Week 1 includes three intense total body workouts with optional active recovery workouts and mobility work between. Week 2 includes three intense workouts split up by body focus — lower body strength, upper body strength, and core/HIIT — with optional recovery workouts and mobility work between. Once you've completed the challenge, we'd love to know which week/format you prefer, for future programs of longer duration that might use this same format! ",
+        "methadology": "This workout challenge includes a blend of strength training and HIIT — sometimes in the same workout — with a Level 3 to Level 4 difficulty. Optional active recovery routines fall between the more intense workouts and include yoga and mobility work to soothe and stretch sore muscles. The average time commitment for the required workouts is about 45 minutes. Your main workouts are intense, but since there are only three per week, you can focus on maximizing your effort before enjoying some active recovery-style movement the following day. ",
+        "equipments": "While all the workouts in this challenge can be done with bodyweight only, we recommend having a pair of dumbbells (especially for the multiple strength training workouts included). We also recommend an optional mat. ",
+        "trainer": "The FB 3-Day Challenge features exclusive FB Plus videos from Tasha, Kelli, Daniel, Kayla, Amanda, Nicole, and Marina. This challenge was built by Kelli.",
+        "id": 1
+      },
+      {
+        "title": "FB Just Your Body: 2-Week No Equipment Challenge",
+        "image": "https://d18zdz9g6n5za7.cloudfront.net/plan/1020/1020-9687-fb-just-your-body-2-week-no-equipment-challenge-b0df.jpg",
+        "price": "7.99",
+        "FBplus": "true",
+        "plan": "2",
+        "duration": "30",
+        "days": "5",
+        "difficultyLevel": [
+          "3",
+          "4",
+          "5"
+        ],
+        "bodyFocus": "Total Body",
+        "equipmentData": [
+          "No Equipment"
+        ],
+        "trainingTypeData": [
+          "HIIT",
+          "Strength Training",
+          "Pilates",
+          "Cardiovascular",
+          "Stretching / Flexibility",
+          "Low Impact",
+          "Toning"
+        ],
+        "overview": "Welcome to Fitness Blender’s Just Your Body: 2-Week No Equipment Challenge!\n\nThis 2-week challenge is designed to provide a well-rounded workout regime whether you're at home or on the go. There are many benefits to bodyweight training, including:\n\nIncreased strength and power\nImproved functional strength\nProtects bone and joint health\nModifiable to meet your fitness level\nConvenient and inexpensive\nAnd more!",
+        "format": "This challenge is ideal for nearly everyone! However, you should have some experience with foundational bodyweight movements — like squats and push-ups — and/or a solid base of strength before starting. Many exercises within the cardio and HIIT routines involve explosive movements that may be challenging for some who struggle with high impact activity. If you suffer from chronic back pain, this may not be the challenge for you.",
+        "methadology": "The Challenge progresses from Level 3 difficulty in the first week to Level 4 and 5 in the second week, with workouts that range from 25–45 minutes in length (averaging out to 34 minutes a day). This way, you can be sure your body can maximize each workout while still effectively recovering between them. Feel free to use our \"reschedule\" feature to rework your calendar in any way you need to accomplish this challenge. ",
+        "equipments": "For this challenge, you’ll need one main thing: yourself! Additionally, all of the workouts can be progressed using bands, weights/kettlebells, or a weighted vest.",
+        "trainer": "FB Just Your Body: 2-Week No Equipment Challenge features a mix of FB Plus and Free videos from Kayla, Tasha, Nicole, Kelli, and Daniel.  ",
+        "id": 2
+      },
+      {
+        "title": "FB Pilates Immersion: 2-Week Pilates Challenge for Foundational Strength and Stability",
+        "image": "https://d18zdz9g6n5za7.cloudfront.net/plan/1020/1020-9443-fb-pilates-immersion-2-week-pilates-challenge-for-foundational-strength-and-stability-935e.jpg",
+        "price": "7.99",
+        "FBplus": "true",
+        "plan": "2",
+        "duration": "30",
+        "days": "4",
+        "difficultyLevel": [
+          "2",
+          "3",
+          "4"
+        ],
+        "bodyFocus": "Total Body",
+        "equipmentData": [
+          "Dumbbell",
+          "Mat"
+        ],
+        "trainingTypeData": [
+          "Pilates",
+          "Stretching / Flexibility",
+          "Low Impact",
+          "Toning"
+        ],
+        "overview": "FB Pilates Immersion is a two-week challenge designed to build foundational strength and stability for your entire body. This challenge targets your lower body, core, and upper body with classic and contemporary Pilates exercises. Most of the workouts are low to no impact, isolating your deep stabilizers to build strength and stability from the inside out. However, there are three days in this challenge where you will complete a short Pilates workout before a strength or cardio routine. \n\nPilates, originally called Contrology, was created by Joseph Pilates in the 1920s. These mat-based exercises were used to help rehabilitate injured soldiers and veterans. Through Contrology, Joseph Pilates wanted to teach individuals how to use their minds to control their muscles, bring focus to their deep abdominal muscles to create balance within their bodies, and bring awareness to their bodies through breath.\n\nNowadays, there are many different versions of Pilates one could practice, using equipment, apparatuses, or just an exercise mat. Regardless of the type of practice, each exercise follows these nine principles:\n\nBreathing\nConcentration\nControl\nCentering\nFlow\nPostural Alignment\nPrecision\nRelaxation\nStamina\nPilates is not a race, so think quality over quantity. It is essential to move slowly and cautiously with precision and control. In other words, it is better to do five reps with proper form than ten reps with not-so-proper form. If that means moving through a small range of motion, that's okay! As you get stronger and your body gains more stability and control over the movement, you will move through a larger range of motion. \n\nYou will hear the term \"rib-to-hip-connection\" frequently in the Pilates routines. That means that when you engage your abdominals, your lower ribs come closer to your hips or pelvis without rounding or arching your spine. When the ribs and hips are \"connected,\" you are in a neutral spine position. Imagine suspenders on your lower ribs that are attached to the front of your pelvis. If you tighten those suspenders, your rib cage will come down. BUT do not allow your spine to round forward. Keep your spine straight and your chest up tall. If you feel like you are working in opposition here, it is because you are. So, take your time; practice makes perfect. ",
+        "format": "Workouts are six days each week, averaging 37 minutes per day, with an average difficulty level of 3 out of 5. Most days are strictly Pilates, but on days 3, 6, and 9, you'll have a Pilates routine AND a cardio or strength routine. You will need an exercise mat, a resistance band, light dumbbells, and a physioball during this challenge. However, if you do not have a physioball, you can opt for an alternative routine; if you do not have light dumbbells, you can use two canned goods. ",
+        "methadology": "This challenge is designed for anyone who is new to Pilates and wants to learn more about it as well as those who are already familiar with it and love it. \n\nIf you are taking on this challenge because you enjoy Pilates, use the next 2-weeks to perfect your form, build strength and stability, and celebrate the amazing things your body can do! \n\nIf you are new to Pilates, use this time to switch up your routine, learn new exercises, and connect to your deep stabilizing muscles that aren't usually targeted with traditional strength and cardio.",
+        "equipments": "",
+        "trainer": "FB Pilates Immersion includes FB Plus videos from Amanda, Nicole, Kayla, and Tasha.",
+        "id": 3
+      },
+      {
+        "title": "FB Reboot: 8-Week Program to Jumpstart Your Fitness Routine Beginner-Friendly Workouts to Build Strength, Confidence, and Consistency",
+        "image": "https://d18zdz9g6n5za7.cloudfront.net/plan/1020/1020-8774-fb-reboot-8-week-program-to-jumpstart-your-fitness-routine-83b3.jpg",
+        "price": "7.99",
+        "FBplus": "true",
+        "plan": "2",
+        "duration": "45",
+        "days": "3",
+        "difficultyLevel": [
+          "2",
+          "3",
+          "4"
+        ],
+        "bodyFocus": "Total Body",
+        "equipmentData": [
+          "Dumbbell",
+          "Mat"
+        ],
+        "trainingTypeData": [
+          "HIIT",
+          "Strength Training",
+          "Cardiovascular",
+          "Low Impact",
+          "Toning"
+        ],
+        "overview": "Welcome to FB Reboot! This is an 8-week beginner-friendly program designed to build your base of total body strength, cardiovascular endurance, and all-around fitness. \n\nThis program is ideal for anyone new to exercising consistently, as well as those restarting exercise after an injury or workout break. FB Reboot will not only improve your fitness, but boost your confidence and help you gain lasting consistency with your workouts.",
+        "format": "Over the course of 8 weeks, you’ll progressively build from level 1 & 2 workouts to level 3, 4 and 5 workouts. You’ll find that the workout frequency (or number of workouts per week) also increases as the weeks go on, to keep your body stimulated and fitness level progressing. This strategy allows you to approach fitness in a smart way that will help you establish consistency and confidence over time — without risking injury.",
+        "methadology": "So you can be sure your body is getting everything it needs to be well-rounded, you'll complete a range of workout styles: strength training, HIIT, low-impact cardio, core, pilates, and flexibility. Your trainers are a team of Certified Personal Trainers and Doctors of Physical Therapy: Kelli, Daniel, Tasha, Kayla, Amanda, Nicole and Marina. This program was built and written by Nicole and is included with an active Plus Membership or Plus Pass.",
+        "equipments": "You can technically do many of these workouts with only bodyweight, but dumbbells are very helpful for increasing challenge and strength. We’ve tried to minimize the use of additional equipment, but there may be cases where resistance bands and an exercise step (or stair) may also make appearances in this program (in these cases, alternate workouts that use only dumbbells are also provided). We also recommend an optional exercise mat for many of these workouts. ",
+        "trainer": " FB Reboot includes a daily guide that walks you through the program every step of the way; it also includes featured articles from Doctors of Physical Therapy, Certified Personal Trainers, Doctoral-Level Mental Health Professionals, and Registered Dietitians (Meet the Fitness Blender Team).",
+        "id": 4
+      },
+      {
+        "title": "FB Strong Runner: 2-Week Strength-Focused Challenge for Improving Running Performance",
+        "image": "https://d18zdz9g6n5za7.cloudfront.net/plan/1020/1020-8622-fb-strong-runner-2-week-strength-focused-challenge-for-improving-running-performance-9544.jpg",
+        "price": "7.99",
+        "FBplus": "true",
+        "plan": "2",
+        "duration": "30",
+        "days": "4",
+        "difficultyLevel": [
+          "2",
+          "3",
+          "4"
+        ],
+        "bodyFocus": "Upper",
+        "equipmentData": [
+          "Dumbbell",
+          "Mat"
+        ],
+        "trainingTypeData": [
+          "HIIT",
+          "Strength Training",
+          "Pilates",
+          "Stretching / Flexibility",
+          "Toning"
+        ],
+        "overview": "FB Strong Runner is a two-week challenge designed to help runners improve their running pace and form with supplemental strength-focused workouts. Although the lower body muscles are the primary movers during a run, total body strength work is instrumental to injury prevention and enhancing performance. This challenge includes lower body, upper body, core, and low impact/restorative movement workouts, all with exercises that complement the biomechanics of running:\n\nLower Body: Strengthening the muscles of the lower body (with resistance training and plyometrics) improves foot strike force production to improve cadence and minimize turnover effort. \nUpper Body: Your body is a kinetic chain — everything is connected and where your arms go your legs follow (and vice versa). A strong upper body helps you maintain proper running posture as your body fatigues during a run.\nCore: Your core includes more than just your abdominals (glutes, hip flexors, lower back) and is considered the powerhouse from which all movement originates. A stable base creates a foundation for powerful movements in the limbs/extremities.\nLow Impact Cardio/Restorative Movement: Cardio workouts of a lesser intensity than training runs can potentially reduce muscle soreness, offset fatigue, and keep muscles pliable for the next workout session. \nThis challenge is recommended as part of a larger personal regimen that incorporates strength training and cross-training workouts with specific training runs; you can repeat this challenge as needed to accommodate your training goals and preferences. Make sure to build in recovery between repeated rounds to avoid burnout!",
+        "format": "Workouts are six days each week, average 32 minutes per day, and are mostly level 3 workouts to allow for enough energy to complete the optional runs on days 2, 5, 8, 9, and 12. For most of the workouts, you’ll need a set of weights (or two) and a mat, but a handful of workouts include optional equipment (such as the physio-ball, exercise band, and yoga blocks). ",
+        "methadology": "",
+        "equipments": "",
+        "trainer": "FB Strong Runner includes FB Plus videos from Daniel, Kelli, Tasha, Nicole, Kayla, Amanda, and Marina. ",
+        "id": 5
+      },
+      {
+        "title": "FB Kettlebell Blend: 2-Week Kettlebell Challenge for Functional Strength",
+        "image": "https://d18zdz9g6n5za7.cloudfront.net/plan/1020/1020-8081-fb-kettlebell-blend-2-week-kettlebell-challenge-for-functional-strength-a591.jpg",
+        "price": "7.99",
+        "FBplus": "true",
+        "plan": "2",
+        "duration": "45",
+        "days": "4",
+        "difficultyLevel": [
+          "3",
+          "4",
+          "5"
+        ],
+        "bodyFocus": "Core",
+        "equipmentData": [
+          "Dumbbell",
+          "Mat"
+        ],
+        "trainingTypeData": [
+          "Strength Training",
+          "Pilates",
+          "Cardiovascular",
+          "Stretching / Flexibility"
+        ],
+        "overview": "Welcome to Fitness Blender’s Kettlebell Blend Program! \n\nThis 2-week challenge is designed for those who want to utilize kettlebells in a more structured approach. There are many benefits to kettlebell training, including:",
+        "format": "This challenge is ideal for those who have some experience with kettlebells and/or a good base of strength before starting. Many of the movements in kettlebell training involve explosive movement patterns and can be considered pretty challenging. If you suffer from chronic back pain, this may not be the challenge for you.",
+        "methadology": "With many of our kettlebell workouts being a level 4 or 5 out of 5, we’ve designed this challenge with 3 “required” kettlebell workouts per week and 2 “optional” workouts per week that will be of a recovery nature. This way, you can be sure your body can maximize each workout, while effectively recovering between them. You’ll also find a couple days where you get to choose between 2 workouts based on how you’re feeling that day. Feel free to rework your calendar in any way you need to accomplish this challenge. ",
+        "equipments": "For this challenge, you’ll need one main thing: kettlebells! Most of the workouts require using just one kettlebell at a time, but we recommend having a few weight options available, if possible. While we encourage kettlebell use, we know this may not be accessible to everyone. Dumbbells make a good substitute for most exercises.\n\nAdditionally, you’ll come across a workout using a jump rope. If you don’t have one, you can repeat the same motions without a jump rope.",
+        "trainer": "FB Kettlebell Blend features a mix of FB Plus and Free videos from Daniel, Kelli, Tasha, and Nicole.",
+        "id": 6
+      },
+      {
+        "title": "FB Blend - Burn Fat, Build Muscle, Tone; 35 or 55 Minutes a Day mode_comment 196    ",
+        "image": "https://d18zdz9g6n5za7.cloudfront.net/plan/1020/1020-o_29_4-week-fb-blend-burn-fat-build-muscle-tone-35-or-55-minutes-a-day.jpg",
+        "price": "16.99",
+        "FBplus": "false",
+        "plan": "4",
+        "duration": "30",
+        "days": "5",
+        "difficultyLevel": [
+          "3",
+          "4",
+          "5"
+        ],
+        "bodyFocus": "Total Body",
+        "equipmentData": [
+          "Dumbbell"
+        ],
+        "trainingTypeData": [
+          "Strength Training",
+          "Pilates",
+          "Stretching / Flexibility",
+          "Toning"
+        ],
+        "overview": "FB Blend is a fun, challenging, and flexible workout plan; you get to choose the length of your workouts each day, roughly 35 or 55 minutes a day, depending on your own schedule and energy levels. Each day of this program offers a unique workout - you'll never have to do the same video twice. It's a smart combination of HIIT, strength training, functional movement, Pilates, supersets, cardio, plyometrics, stretching, yoga and more. All you need is dumbbells and even if you don't have dumbbells, you can still get in a great workout using your own bodyweight.",
+        "format": "The strategic combination of HIIT and strength training in this total body program is excellent for burning fat, building lean muscle, and becoming overall more physically healthy and capable. These are tried and true, scientifically-backed training methods. The workouts will challenge your muscular strength, cardiovascular endurance, coordination, speed, proprioception, balance, and flexibility.  These workouts can absolutely make you look great, but we want you to also feel great. Our aim is to guide you to move well, and live well. We want you to feel strong and capable, energetic and able to live easily in your own body.",
+        "methadology": "Workouts are 5 days a week + an optional 6th recovery day workout but it's important to note that our online workout calendar allows you to complete these workouts at any pace you like. Additionally, our programs can be reused as many times as you like, at no extra charge whatsoever. ",
+        "equipments": "We always encourage each person to listen to their own body's messages and move at their own pace. With that said; these workouts are intense and start out at difficulty levels 3-5 from Day 1. This is not a Low Impact Program, though most of the workouts (not all) provide low impact alternatives. Exercisers will need to use their own discretion in manipulating the scheduled workouts to be appropriate for their personal fitness levels and abilities. Exercisers are encouraged to take liberties in modifying the exercises and this program to work for their needs. Listen to and respect your body!",
+        "trainer": "We encourage you to visit the Fitness Blender Community Forums to find support from the most encouraging fitness community on the web. You can also use #FBBlend on social media to track your workout sessions, share your progress, find motivation, and connect with people around the world who are following this program. ",
+        "id": 7
+      },
+      {
+        "title": "2-Week FB Reboot Challenge - A Balanced, Approachable Return to Fitness",
+        "image": "https://d18zdz9g6n5za7.cloudfront.net/plan/1020/1020-7590-2-week-fb-reboot-challenge-a-balanced-approachable-return-to-fitness-bb7b.jpg",
+        "price": "7.99",
+        "FBplus": "true",
+        "plan": "2",
+        "duration": "30",
+        "days": "5",
+        "difficultyLevel": [
+          "2",
+          "3"
+        ],
+        "bodyFocus": "Upper",
+        "equipmentData": [
+          "Dumbbell",
+          "Mat"
+        ],
+        "trainingTypeData": [
+          "HIIT",
+          "Pilates",
+          "Cardiovascular",
+          "Stretching / Flexibility",
+          "Toning"
+        ],
+        "overview": "Welcome to FB Reboot! This program is designed for those who are coming back from an illness, injury, or workout break to help you get back into exercise in an approachable way. It's common to come back from an extended workout break and want to hit the ground running at your previous intensity to make up for lost time. However, that could increase the risk of injury and/or burnout.",
+        "format": "This workout lineup offers a balanced approach including strength training, low-impact cardio, core training, and stretching/flexibility so you can be sure your body is getting what it needs after some time off. Over the course of 2 weeks, we'll gradually increase the intensity and time commitment from shorter (~25 min) level 2 workouts to slightly longer (~40 min) level 3 workouts, allowing you to gradually build back into a consistent routine without shocking your system. There are 5 workouts per week with an optional bonus day, plus extra credit workouts included throughout.",
+        "methadology": "As you work back into a consistent routine, it's important to be compassionate with yourself. Since it may have been a while since you last exercised consistently, you may find some roadblocks (physically or mentally). If you miss a workout, simply reschedule it without letting it mean you have failed the program. There is no such thing as failure with FB Reboot (or any program, for that matter). You're here for a reason and we're cheering you on every step of the way!",
+        "equipments": "For FB Reboot, you'll need minimal equipment. While the majority of the workouts require no equipment at all, you will need dumbbells for our strength training workouts and a mat (or comfortable space on the floor) for our pilates, core, and stretch-based workouts.\n\nFB Reboot features exclusively FB Plus workout videos. Your trainers will be Kelli, Tasha, Kayla, Nicole, and Amanda.",
+        "trainer": "We encourage you to use #FBReboot in our Community forums or on social media to connect with people around the world who are following this program.",
+        "id": 8
+      }
+    ],
+    "mealProgram": [],
+    "pilotProgram": [],
+    "Routines": [],
+    "expertArticles": [],
+    "healthyReceipes": [],
+    "wellnessVideos": [
+      {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1154-intermediate-power-yoga-with-twists-adef.jpg",
+          "title" : "Intermediate Power Yoga With Twists",
+          "subtitle": "Free-Flow for Balance and Strength",
+          "duration": "52 Min • Total Body",
+          "calorie-burn":[199, 300],
+          "level":"4",
+          "Body-focus":"Total",
+          "Training-type":"Yoga",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1150-30-minute-hiit-a15c.jpg",
+          "title" : "Quick HIIT With Extended Cool Down",
+          "subtitle": "Tabata-Inspired Intervals and Feel-Good Foam Rolling",
+          "duration": "29 Min • Total Body",
+          "calorie-burn":[125,232],
+          "level":"3",
+          "Body-focus":"Total",
+          "Training-type":"HIIT,Stretching/Flexibility",
+          "Equipment":"Foam Roller"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1156-lower-body-strength-bb7d.jpg",
+          "title" : "Lower Body Strength",
+          "subtitle": "Weighted Circuits with Bodyweight Tempo Training",
+          "duration": "66 Min • Lower Body",
+          "calorie-burn":[331,590],
+          "level":"4",
+          "Body-focus":"Lower",
+          "Training-type":"Strength Training",
+          "Equipment":"Dumbbell,Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1155-express-upper-body-90e4.jpg",
+          "title" : "Express Upper Body",
+          "subtitle": "Bored-Easily Strength Intervals",
+          "duration": "17 Min • Upper Body",
+          "calorie-burn":[102, 204],
+          "level":"3",
+          "Body-focus":"Upper",
+          "Training-type":"Strength Training",
+          "Equipment":"Dumbbell,Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1151-30-minute-slow-flow-981b.jpg",
+          "title" : "30-Minute Slow Flow",
+          "subtitle": "Beginner-Friendly Vinyasa Yoga",
+          "duration": "30 Min • Upper Body",
+          "calorie-burn":[88, 132],
+          "level":"4",
+          "Body-focus":"Upper",
+          "Training-type":"Yoga",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1137-power-yoga-posture-work-up-traditional-headstand-8855.jpg",
+          "title" : "Power Yoga for Traditional Headstand",
+          "subtitle": "Core and Upper Body Strength With Posture Technique",
+          "duration": "25 Min • Upper Body, Core",
+          "calorie-burn":[100, 175], 
+          "level":"4",
+          "Body-focus":"Upper",
+          "Training-type":"Yoga",
+          "Equipment":"Mat,Yoga Block"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1098-upper-body-two-day-split-pull-9c47.jpg",
+          "title" : "Upper Body Two Day Split - Pull",
+          "subtitle": "Strengthen the Rhombiods, Lats, and Biceps",
+          "duration": "58 Min • Upper Body",
+          "calorie-burn":[339,665],
+          "level":"3",
+          "Body-focus":"Upper",
+          "Training-type":"Low Impact, Strength Training",
+          "Equipment":"Bench, Dumbbell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1133-single-weight-upper-body-a19e.jpg",
+          "title" : "Single Weight Upper Body",
+          "subtitle": "Quick Strength Training Circuit",
+          "duration": "23 Min • Upper Body",
+          "calorie-burn":[88,143],
+          "level":"3",
+          "Body-focus":"Upper",
+          "Training-type":" Strength Training",
+          "Equipment":"Dumbbell, Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1129-power-yoga-for-wheel-pose-8911.jpg",
+          "title" : "Power Yoga for Wheel Pose",
+          "subtitle": "Upper Body and Core With Posture Tutorial",
+          "duration": "35 Min • Upper Body",
+          "calorie-burn":[80, 125],
+          "level":"3",
+          "Body-focus":"Upper",
+          "Training-type":"Yoga",
+          "Equipment":"Mat,Yoga Block,Other"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1084-upper-body-two-day-split-push-b037.jpg",
+          "title" : "Upper Body Two Day Split - Push",
+          "subtitle": "Increase Strength in the Chest, Shoulders, and Triceps",
+          "duration": "57 Min • Upper Body",
+          "calorie-burn":[335,654],
+          "level":"3",
+          "Body-focus":"Upper",
+          "Training-type":"Low Impact, Strength Training",
+          "Equipment":"Bench, Dumbbell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1127-pilates-for-the-arms-and-abs-966f.jpg",
+          "title" : "Pilates for the Arms and Abs",
+          "subtitle": "Build Foundational Strength and Stability",
+          "duration": "47 Min • Upper Body, Core",
+          "calorie-burn":[148, 222],
+          "level":"3",
+          "Body-focus":"Upper",
+          "Training-type":"Pilates, Strength Training",
+          "Equipment":"Dumbbell, Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1102-30-min-unconventional-upper-body-and-core-strength-and-cardio-workout-ad0d.jpg",
+          "title" : "Unconventional Upper Body and Core",
+          "subtitle": "Descending Strength Intervals With Cardio",
+          "duration": "35 Min • Upper Body, Core",
+          "calorie-burn":[175,339],
+          "level":"4",
+          "Body-focus":"Upper",
+          "Training-type":"Cardiovascular, HIIT, Strength Training",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1107-stretch-break-for-desk-jobs-a121.jpg",
+          "title" : "Stretch Break for Desk Jobs",
+          "subtitle": "10-Minute Posture Reset",
+          "duration": "11 Min • Upper Body",
+          "calorie-burn":[30, 50],
+          "level":"2",
+          "Body-focus":"Upper",
+          "Training-type":"Strength Training, Stretching/Flexibility, Toning",
+          "Equipment":"Exercise Band, Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1113-back-to-basics-strength-b587.jpg",
+          "title" : "Back to Basics Strength",
+          "subtitle": "Fundamental Exercises for the Upper and Lower Body",
+          "duration": "35 Min • Upper Body, Lower Body",
+          "calorie-burn":[152, 275],
+          "level":"3",
+          "Body-focus":"Upper",
+          "Training-type":"Strength Training",
+          "Equipment":"Bench, Dumbbell, Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1093-bodyweight-upper-body-and-core-855a.jpg",
+          "title" : "Bodyweight Upper Body and Core",
+          "subtitle": "Slow-Tempo Strength Circuits",
+          "duration": "25 Min • Upper Body, Core",
+          "calorie-burn":[68, 122],
+          "level":"3",
+          "Body-focus":"Upper",
+          "Training-type":"Strength Training",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1086-upper-body-strength-with-hiit-intermissions-9cd1.jpg",
+          "title" : "Upper Body Strength with HIIT Intermissions",
+          "subtitle": "Ladder Circuits for Endurance",
+          "duration": "49 Min • Upper Body",
+          "calorie-burn":[212, 402],
+          "level":"4",
+          "Body-focus":"Upper",
+          "Training-type":"HIIT,Strength Training",
+          "Equipment":"Dumbbell, Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1050-upper-body-kettlebell-workout-80d2.jpg",
+          "title" : "Upper Body Kettlebell Workout",
+          "subtitle": "Build Strength and Core Stability",
+          "duration": "40 Min • Upper Body, Core",
+          "calorie-burn":[190, 313],
+          "level":"3",
+          "Body-focus":"Upper",
+          "Training-type":"Kettlebell, Strength Training",
+          "Equipment":"Dumbbell, Mat, Kettlebell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1088-express-upper-body-resistance-band-burnout-a182.jpg",
+          "title" : "Express Upper Body Resistance Band Burnout",
+          "subtitle": "16-Minute Add-On to Challenge the Arms",
+          "duration": "16 Min • Upper Body",
+          "calorie-burn":[66, 93],
+          "level":"3",
+          "Body-focus":"Upper",
+          "Training-type":"Strength Training",
+          "Equipment":"Exercise Band"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1110-pure-strength-with-cardio-bursts-b76c.jpg",
+          "title" : "Strength With Cardio Bursts",
+          "subtitle": "Upper and Lower Body Sets With You-Choose Cardio",
+          "duration": "30 Min • Total Body",
+          "calorie-burn":[183, 370],
+          "level":"4",
+          "Body-focus":"Core",
+          "Training-type":"Cardiovascular, Strength Training",
+          "Equipment":"Exercise Band, Dumbbell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1154-intermediate-power-yoga-with-twists-adef.jpg",
+          "title" : "Intermediate Power Yoga With Twists",
+          "subtitle": "Free-Flow for Balance and Strength",
+          "duration": "52 Min • Total Body",
+          "calorie-burn":"199-300 calories",
+          "level":"4",
+          "Body-focus":"Total",
+          "Training-type":"Yoga",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1154-intermediate-power-yoga-with-twists-adef.jpg",
+          "title" : "Intermediate Power Yoga With Twists",
+          "subtitle": "Free-Flow for Balance and Strength",
+          "duration": "52 Min • Total Body",
+          "calorie-burn":"199-300 calories",
+          "level":"4",
+          "Body-focus":"Total",
+          "Training-type":"Yoga",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1141-weighted-core-strength-98b4.jpg",
+          "title" : "Weighted Core Strength",
+          "subtitle": "Functional Core Correction and Cross-Training",
+          "duration": "19 Min • Core",
+          "calorie-burn":[48, 93],
+          "level":"4",
+          "Body-focus":"Core",
+          "Training-type":"Low Impact, Strength Training",
+          "Equipment":"Dumbbell, Mat, Kettlebell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1109-unilateral-kettlebell-strength-818e.jpg",
+          "title" : "Unilateral Kettlebell Strength",
+          "subtitle": "With Advanced Mobility and Core Stabilization",
+          "duration": "21 Min • Core, Total Body",
+          "calorie-burn":[82, 156],
+          "level":"3",
+          "Body-focus":"Core",
+          "Training-type":"Cardiovascular, Strength Training",
+          "Equipment":"Kettlebell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1127-pilates-for-the-arms-and-abs-966f.jpg",
+          "title" : "Pilates for the Arms and Abs",
+          "subtitle": "Build Foundational Strength and Stability",
+          "duration": "47 Min • Upper Body, Core",
+          "calorie-burn":[148, 222],
+          "level":"3",
+          "Body-focus":"Core",
+          "Training-type":"Pilates, Strength Training",
+          "Equipment":"Dumbbell, Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1075-power-yoga-deep-core-target-work-ae0a.jpg",
+          "title" : "Power Yoga: Deep Core Target Work",
+          "subtitle": "Intermediate/Advanced Power Flow For Intermediate/Advanced Practitioners",
+          "duration": "34 Min • Core",
+          "calorie-burn":[124, 207],
+          "level":"3",
+          "Body-focus":"Core",
+          "Training-type":"Strength Training",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1057-core-strength-circuits-with-sliding-discs-b32f.jpg",
+          "title" : "Core Strength Circuits with Sliding Discs",
+          "subtitle": "Instability Workout for Abdominals, Hip Flexors, and Lower Back Muscles",
+          "duration": "28 Min • Core",
+          "calorie-burn":[140, 222],
+          "level":"3",
+          "Body-focus":"Core",
+          "Training-type":"Strength Training",
+          "Equipment":"Mat,Yoga Block"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1071-vinyasa-yoga-modifications-for-deep-core-work-9739.jpg",
+          "title" : "Vinyasa Yoga: Modifications For Deep Core Work",
+          "subtitle": "Intermediate Flow for Intermediate/Advanced Practitioners",
+          "duration": "36 Min • Core",
+          "calorie-burn":[80, 140],
+          "level":"2",
+          "Body-focus":"Core",
+          "Training-type":"Yoga",
+          "Equipment":"Mat,Yoga Block"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1025-postpartum-core-and-pelvic-floor-recovery-series-level-3-a590.jpg",
+          "title" : "Postpartum Core and Pelvic Floor Recovery Series - Level 3",
+          "subtitle": "",
+          "duration": "22 Min • Core",
+          "calorie-burn":[44, 66],
+          "level":"2",
+          "Body-focus":"Core",
+          "Training-type":"Low Impact, Strength Training",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1061-standing-room-only-bodyweight-workout-for-small-spaces-af61.jpg",
+          "title" : "“Standing Room Only”: Bodyweight Workout for Small Spaces",
+          "subtitle": "",
+          "duration": "",
+          "calorie-burn":"25 Min • Core, Total Body",
+          "level":"3",
+          "Body-focus":"Core",
+          "Training-type":"Low Impact, Strength Training, Toning, Mobility",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1009-upper-body-strength-circuit-with-bear-crawl-core-intermissions-b17e.jpg",
+          "title" : "Upper Body Strength Circuit with Bear Crawl Core Intermissions",
+          "subtitle": "",
+          "duration": "30 Min • Upper Body, Core",
+          "calorie-burn":[129, 251],
+          "level":"4",
+          "Body-focus":"Core",
+          "Training-type":"Strength Training",
+          "Equipment":"Dumbbell, Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1074-12-minute-core-for-runners-improving-rotational-control-9c4a.jpg",
+          "title" : "12-Minute Core for Runners: Improving Rotational Control",
+          "subtitle": "",
+          "duration": "14 Min • Core",
+          "calorie-burn":[76, 114],
+          "level":"4",
+          "Body-focus":"Core",
+          "Training-type":"Low Impact, Strength Training",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1024-postpartum-core-and-pelvic-floor-recovery-series-level-2-a5b7.jpg",
+          "title" : "Postpartum Core and Pelvic Floor Recovery Series - Level 2",
+          "subtitle": "",
+          "duration": "21 Min • Core",
+          "calorie-burn":[42, 63],
+          "level":"2",
+          "Body-focus":"Core",
+          "Training-type":"Low Impact, Strength Training",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1027-core-correction-for-postpartum-back-pain-and-rib-flare-95fa.jpg",
+          "title" : "Core Correction For Postpartum, Back Pain, and Rib Flare",
+          "subtitle": "",
+          "duration": "17 Min • Core",
+          "calorie-burn":[34, 51],
+          "level":"2",
+          "Body-focus":"Core",
+          "Training-type":"Low Impact, Pilates, Toning, Mobility",
+          "Equipment":"Bench, Yoga Block"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-989-core-blast-fusion-a1a6.jpg",
+          "title" : "Quick Core Blast Yoga Power Flow",
+          "subtitle": "",
+          "duration": "25 Min • Core",
+          "calorie-burn":[80, 135],
+          "level":"3",
+          "Body-focus":"Core",
+          "Training-type":"Balance/Agility, Low Impact, Toning, yoga",
+          "Equipment":"Mat,Yoga Block"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-972-7-movements-of-the-spine-gentle-yoga-to-benefit-the-spine-9156.jpg",
+          "title" : "7 Movements of the Spine - Gentle Yoga to Benefit the Spine",
+          "subtitle": "",
+          "duration": "19 Min • Core",
+          "calorie-burn":[25, 100],
+          "level":"2",
+          "Body-focus":"Core",
+          "Training-type":"Yoga",
+          "Equipment":"Mat,Yoga Block"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1148-lower-body-unilateral-training-8609.jpg",
+          "title" : "Lower Body Corrective Circuit",
+          "subtitle": "",
+          "duration": "19 Min • Lower Body",
+          "calorie-burn":[32, 48],
+          "level":"3",
+          "Body-focus":"Lower",
+          "Training-type":"Mobility",
+          "Equipment":"Exercise Band"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1130-power-yoga-for-full-splits-a514.jpg",
+          "title" : "Power Yoga for Full Splits",
+          "subtitle": "Lower Body Flexibility and Mobility",
+          "duration": "34 Min • Lower Body",
+          "calorie-burn":[68, 136],
+          "level":"2",
+          "Body-focus":"Lower",
+          "Training-type":"Yoga",
+          "Equipment":"Mat,Yoga Block"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1030-lower-body-resistance-band-workout-b0ec.jpg",
+          "title" : "Lower Body Resistance Band Workout",
+          "subtitle": "Exercises for Hips, Glutes, and Pelvic Stabilization",
+          "duration": "14 Min • Lower Body",
+          "calorie-burn":[65, 122],
+          "level":"3",
+          "Body-focus":"Lower",
+          "Training-type":"Low Impact, Pilates, Toning, Mobility",
+          "Equipment":"Exercise Band"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1154-intermediate-power-yoga-with-twists-adef.jpg",
+          "title" : "Intermediate Power Yoga With Twists",
+          "subtitle": "Free-Flow for Balance and Strength",
+          "duration": "52 Min • Total Body",
+          "calorie-burn":"199-300 calories",
+          "level":"4",
+          "Body-focus":"Total",
+          "Training-type":"Yoga",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1154-intermediate-power-yoga-with-twists-adef.jpg",
+          "title" : "Intermediate Power Yoga With Twists",
+          "subtitle": "Free-Flow for Balance and Strength",
+          "duration": "52 Min • Total Body",
+          "calorie-burn":"199-300 calories",
+          "level":"4",
+          "Body-focus":"Total",
+          "Training-type":"Yoga",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1132-quick-lower-body-strength-9dae.jpg",
+          "title" : "Quick Lower Body Strength",
+          "subtitle": "Single-Weight Circuit With Cardio Finisher",
+          "duration": "23 Min • Lower Body",
+          "calorie-burn":[101, 192],
+          "level":"3",
+          "Body-focus":"Lower",
+          "Training-type":"Strength Training",
+          "Equipment":"Dumbbell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1115-lower-body-power-yoga-flow-a701.jpg",
+          "title" : "Power Yoga for the Quads, Glutes, and Hips",
+          "subtitle": "Build Strength and Increase Joint Mobility",
+          "duration": "29 Min • Lower Body",
+          "calorie-burn":[115,220],
+          "level":"4",
+          "Body-focus":"Lower",
+          "Training-type":"Yoga",
+          "Equipment":"Mat,Yoga Block"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1091-hip-stability-and-strength-workout-ae3f.jpg",
+          "title" : "Deep Hip Stability and Strength Workout",
+          "subtitle": "Activate the Piriformis Muscle",
+          "duration": "16 Min • Lower Body",
+          "calorie-burn":[32, 48],
+          "level":"3",
+          "Body-focus":"Lower",
+          "Training-type":"Low Impact, Pilates, Toning, Mobility",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1099-lower-body-strength-with-cardio-bursts-ac27.jpg",
+          "title" : "Lower Body Strength with Cardio Bursts",
+          "subtitle": "Supersets with Intense Cardio Intervals",
+          "duration": "37 Min • Lower Body",
+          "calorie-burn":[170, 321],
+          "level":"4",
+          "Body-focus":"Lower",
+          "Training-type":"Cardiovascular, HIIT, Strength Training",
+          "Equipment":"Dumbbell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1070-lower-body-pure-strength-with-bands-and-weights-a987.jpg",
+          "title" : "Knee-Friendly Strength Workout with Bands and Weights",
+          "subtitle": "Lower Body Pure Strength",
+          "duration": "32 Min • Lower Body",
+          "calorie-burn":[158, 306],
+          "level":"3",
+          "Body-focus":"Lower",
+          "Training-type":"Strength Training",
+          "Equipment":"Bench, Dumbbell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1067-cardio-kickboxing-and-lower-body-strength-combo-b08a.jpg",
+          "title" : "Cardio Kickboxing and Lower Body Strength Combo",
+          "subtitle": "",
+          "duration": "43 Min • Lower Body",
+          "calorie-burn":[380, 515],
+          "level":"4",
+          "Body-focus":"Lower",
+          "Training-type":"Cardiovascular, Kickboxing, Strength Training",
+          "Equipment":"Dumbbell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1028-quick-lower-body-yoga-burnout-for-quads-and-ankles-9f02.jpg",
+          "title" : "Quick Lower Body Yoga Burnout for Quads and Ankles",
+          "subtitle": "",
+          "duration": "30 Min • Lower Body",
+          "calorie-burn":[110, 180],
+          "level":"3",
+          "Body-focus":"Lower",
+          "Training-type":"Yoga",
+          "Equipment":"Mat,Yoga Block"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1056-gentle-yoga-flow-low-back-pain-release-b4f5.jpg",
+          "title" : "Gentle Yoga Flow for Low-Back Pain Release",
+          "subtitle": "",
+          "duration": "24 Min • Lower Body",
+          "calorie-burn":[99, 126],
+          "level":"2",
+          "Body-focus":"Lower",
+          "Training-type":"Yoga",
+          "Equipment":"Mat,Yoga Block"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1031-power-yoga-flow-for-hip-strength-and-release-aa5a.jpg",
+          "title" : "Power Yoga Flow for Hip Strength and Release",
+          "subtitle": "",
+          "duration": "39 Min • Lower Body",
+          "calorie-burn":[155, 245],
+          "level":"4",
+          "Body-focus":"Lower",
+          "Training-type":"Yoga",
+          "Equipment":"Mat,Yoga Block"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1049-360-degree-glute-activation-workout-with-bands-and-dumbbells-9a13.jpg",
+          "title" : "360 Degree Glute Activation Workout with Bands and Dumbbells",
+          "subtitle": "",
+          "duration": "31 Min • Lower Body",
+          "calorie-burn":[106,199],
+          "level":"3",
+          "Body-focus":"Lower",
+          "Training-type":"Low Impact, Strength Training, Toning, Mobility",
+          "Equipment":"Exercise Band, Dumbbell, Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1041-15-minute-inner-thigh-strength-add-on-be26.jpg",
+          "title" : "15 Minute Inner Thigh Strength Add-On",
+          "subtitle": "",
+          "duration": "16 Min • Lower Body",
+          "calorie-burn":[96, 192],
+          "level":"3",
+          "Body-focus":"Lower",
+          "Training-type":"Strength Training",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1045-lower-body-strength-workout-with-glute-activation-warm-up-and-cool-down-a95b.jpg",
+          "title" : "Lower Body Strength Workout with Glute Activation Warm Up and Cool Down",
+          "subtitle": "",
+          "duration": "24 Min • Lower Body",
+          "calorie-burn":[123, 130],
+          "level":"3",
+          "Body-focus":"Lower",
+          "Training-type":"Strength Training, Toning",
+          "Equipment":"Dumbbell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-996-lower-body-strength-with-step-sweaty-cardio-burnout-9b03.jpg",
+          "title" : "Lower Body Strength with Step + Sweaty Cardio Burnout",
+          "subtitle": "",
+          "duration": "48 Min • Lower Body",
+          "calorie-burn":[265,435],
+          "level":"4",
+          "Body-focus":"Total",
+          "Training-type":"Balance/Agility, Low Impact, Toning, yoga",
+          "Equipment":"Exercise Step, Dumbbell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1154-intermediate-power-yoga-with-twists-adef.jpg",
+          "title" : "Intermediate Power Yoga With Twists",
+          "subtitle": "Free-Flow for Balance and Strength",
+          "duration": "52 Min • Total Body",
+          "calorie-burn":[199, 300],
+          "level":"4",
+          "Body-focus":"Total",
+          "Training-type":"Yoga",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1138-gentle-yoga-for-winding-down-9bac.jpg",
+          "title" : "Gentle Yoga for Winding Down",
+          "subtitle": "All-Levels Vinyasa With Guided Meditation",
+          "duration": "28 Min • Total Body",
+          "calorie-burn":[40, 80],
+          "level":"2",
+          "Body-focus":"Total",
+          "Training-type":"Yoga",
+          "Equipment":"Mat"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1157-slow-tempo-strength-aae3.jpg",
+          "title" : "Slow Tempo Strength",
+          "subtitle": " Heavy Dumbbell Workout for Building Muscle",
+          "duration": "53 Min • Total Body",
+          "calorie-burn":[245, 531],
+          "level":"3",
+          "Body-focus":"Total",
+          "Training-type":"Strength Training",
+          "Equipment":"Dumbbell"
+        },
+        {
+          "img":"https://d18zdz9g6n5za7.cloudfront.net/video/640/640-1146-aerobic-step-hiit-a107.jpg",
+          "title" : "Aerobic Step HIIT",
+          "subtitle": "Ascending and Descending Cardio Ladders",
+          "duration": "33 Min • Total Body",
+          "calorie-burn":[135,194],
+          "level":"4",
+          "Body-focus":"Total",
+          "Training-type":"Cardiovascular, HIIT",
+          "Equipment":"Exercise Step"
+        }
+    ],
+    "Blogs": [
+  
+    ],
+    "orders": {
+      "totalMembera": "500",
+      "totalOrders": "659",
+      "totalProfit": "2154124"
+    }
+  }
